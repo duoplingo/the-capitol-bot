@@ -1,0 +1,14 @@
+{
+  "name": "the-capitol-bot",
+  "version": "1.0.0",
+  "description": "Official Capitol Registry Bot for Velthrone Society (Year 0 ADD)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  }
+}
