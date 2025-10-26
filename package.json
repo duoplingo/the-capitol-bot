@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Official Capitol Registry Bot for Velthrone Society (Year 0 ADD)",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
